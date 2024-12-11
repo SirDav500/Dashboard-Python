@@ -35,6 +35,8 @@ col1 = st.columns(1)
 
 col1[0].plotly_chart(fig_date, use_container_width=True)
 
+vatest = ""
+
 
 
 
